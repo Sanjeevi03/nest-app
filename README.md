@@ -4,3 +4,4 @@ CRUD Operation using react and nest
 3. mysql
 4. mongodb
 5. ORM(prisma and sequlize)
+npm start
